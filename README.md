@@ -1,4 +1,4 @@
-# Authentication_JavaFX
+UserAuthentication
 
 Simple application for user authorization and registartion written in Java(JavaFX).
 
